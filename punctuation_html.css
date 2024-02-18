@@ -41,7 +41,7 @@ body { background-color:#C0C0CC; padding:0;  margin: 0; }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
 .textstyle6 { font-size:12pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#000000; font-weight:bold;  white-space: nowrap; }
 .textstyle7 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#656565; font-weight:bold;  white-space: nowrap; }
-#container_58660a36 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_58660a36 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:85px; background:none;  }
 #container_58660a36_padding { margin: 10px; display: block;  }
 #img_3bf9d50e { vertical-align: bottom; position:relative; display: inline-block; width:101%; background:none; height:auto;  }
 #container_2c01960 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#F3F3F5;  }
