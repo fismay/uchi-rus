@@ -90,8 +90,8 @@ body { background-color:#C0C0CC; padding:0;  margin: 0; }
 #heading_3eca7aab { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:22pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#2E2E2E; text-align:left; font-weight:bold;  }
 #container_170f5b97 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:48%; min-height:150px; background:none; border: 1px solid #404040;  }
 #container_170f5b97_padding { margin: 10px; display: block;  }
-#menu_6199f115 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:35%; height:35px; text-align:left; background-color:#C0C0C0; background: linear-gradient(to bottom, #C0C0C0, #C0C0C0); border: 1px solid #A0A0A0;  }
-.menustyle3 { position:absolute; width:198px; height:35px; left:10px;  }
+#menu_6199f115 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:54%; height:35px; text-align:left; background-color:#C0C0C0; background: linear-gradient(to bottom, #C0C0C0, #C0C0C0); border: 1px solid #A0A0A0;  }
+.menustyle3 { position:absolute; width:130px; height:35px; left:10px;  }
 .menuentry_text3 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:20px;  }
 .textstyle14 { font-size:13pt; font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; color:#000000;  white-space: nowrap; }
 .menustyle4 { position:absolute; width:138px; height:35px; left:10px;  }
